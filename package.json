@@ -2,7 +2,7 @@
     "name": "zank-extension-pack",
     "displayName": "ZanK's Extension Pack",
     "description": "Useful front-end extensions",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "publisher": "zank",
     "repository": {
         "type": "git",
