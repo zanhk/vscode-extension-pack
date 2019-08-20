@@ -1,7 +1,4 @@
-# README
-
-## ZanK's extension pack
-
+# ZanK's extension pack
 
 Useful extensions for front-end development
 
