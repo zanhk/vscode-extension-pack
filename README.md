@@ -1,5 +1,7 @@
 # ZanK's extension pack
 
+link to marketplace: [ZanK's Extension Pack](https://marketplace.visualstudio.com/items?itemName=zank.zank-extension-pack)
+
 Useful extensions for front-end development
 
 ## Extensions included in this pack
