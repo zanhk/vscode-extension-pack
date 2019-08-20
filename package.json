@@ -1,14 +1,13 @@
 {
     "name": "zank-extension-pack",
-    "displayName": "ZanK's extension pack",
-    "description": "Useful front-end extension pack",
-    "version": "0.0.1",
+    "displayName": "ZanK's Extension Pack",
+    "description": "Useful front-end extensions",
+    "version": "0.0.2",
     "publisher": "zank",
     "repository": {
         "type": "git",
         "url": "https://github.com/zk-g/zank-extension-pack"
     },
-
     "icon": "logo.png",
     "engines": {
         "vscode": "^1.37.0"
