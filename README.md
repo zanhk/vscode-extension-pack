@@ -4,7 +4,7 @@ Useful extensions for front-end development
 
 ## Extensions included in this pack
 
-[![Total](https://img.shields.io/badge/Total-62-green)](https://github.com/zk-g/zank-extension-pack)
+[![Total](https://img.shields.io/badge/Total-65-green)](https://github.com/zk-g/zank-extension-pack)
 
 #### Themes
 * [One-Dark-Monokai-Darker]
