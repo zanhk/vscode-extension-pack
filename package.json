@@ -3,7 +3,7 @@
     "displayName": "ZanK's extension pack",
     "description": "Useful front-end extension pack",
     "version": "0.0.1",
-    "publisher": "Giulio Zanchetta",
+    "publisher": "zank",
     "repository": {
         "type": "git",
         "url": "https://github.com/zk-g/zank-extension-pack"
