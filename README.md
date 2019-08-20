@@ -6,54 +6,73 @@ Useful extensions for front-end development
 
 [![Total](https://img.shields.io/badge/Total-62-green)](https://github.com/zk-g/zank-extension-pack)
 
-* [Better-Commnents]
-* [Bookmarks]
-* [Project-manager]
-* [Browser-Preview]
-* [NPM-Intellisense]
-* [Path-Intellisense]
-* [Bracket-Pair-Colorizer-2]
-* [Vue-Peek]
+#### Themes
+* [One-Dark-Monokai-Darker]
+* [Pitch-Black-Theme]
+
+#### Icons
+* [Material-Icon-Theme]
+
+#### Beautifier / Linter
 * [ESlint]
+* [Prettier]
+* [Beautify]
+
+#### Git
 * [Git-History]
 * [Git-Lens]
+
+#### Files Support / Snippets
+* [NPM-Intellisense]
+* [Path-Intellisense]
+* [Vue-Peek]
 * [NPM-Script]
-* [Prettier]
-* [One-Dark-Monokai-Darker]
-* [Auto-Close-Tag]
-* [Auto-Rename-Tag]
-* [Code-Runner]
-* [VScode-Google-Translate]
-* [TODO-Tree]
-* [Beautify]
-* [VSLS-Whitheboard]
 * [Angular]
 * [Python]
-* [Remote-Development-Extension-Pack]
 * [C++]
 * [C#]
 * [Go]
-* [VSLS-Extension-Pack]
-* [Debugger-Chrome]
 * [React]
 * [Vue-Extension-Pack]
-* [Material-Icon-Theme]
-* [Live-Server]
 * [Essential-Snippet]
-* [Setting-Sync]
 * [XML]
 * [Java-Extension-Pack]
-* [Leetcode]
 * [PDF-Viewer]
-* [Pitch-Black-Theme]
 * [Maven-For-Java]
+* [MD-AllInOne]
+
+#### Preview / Test / Debug
+* [Browser-Preview]
+* [Code-Runner]
+* [Debugger-Chrome]
+* [Live-Server]
+
+#### Learning
+* [Leetcode]
+
+#### Others
+* [Better-Comments]
+* [Bookmarks]
+* [Project-manager]
+* [Bracket-Pair-Colorizer-2]
+* [Auto-Close-Tag]
+* [Auto-Rename-Tag]
+* [VScode-Google-Translate]
+* [TODO-Tree]
+* [VSLS-Whiteboard]
+* [Remote-Development-Extension-Pack]
+* [VSLS-Extension-Pack]
+* [Setting-Sync]
 * [TODO-Highlight]
-* [MD-AllinOne]
+
+
+
+* And more.. (:
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
 
-[Better-Commnents]: <https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments>
+[Better-Comments]: <https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments>
 [Bookmarks]: <https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks>
 [Project-manager]: <https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager>
 [Browser-Preview]: <https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview>
@@ -73,7 +92,7 @@ Useful extensions for front-end development
 [VScode-Google-Translate]: <https://marketplace.visualstudio.com/items?itemName=funkyremi.vscode-google-translate>
 [TODO-Tree]: <https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree>
 [Beautify]: <https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify>
-[VSLS-Whitheboard]: <https://marketplace.visualstudio.com/items?itemName=lostintangent.vsls-whiteboard>
+[VSLS-Whiteboard]: <https://marketplace.visualstudio.com/items?itemName=lostintangent.vsls-whiteboard>
 [Angular]: <https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode>
 [Python]: <https://marketplace.visualstudio.com/items?itemName=ms-python.python>
 [Remote-Development-Extension-Pack]: <https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack>
@@ -95,4 +114,4 @@ Useful extensions for front-end development
 [Pitch-Black-Theme]: <https://marketplace.visualstudio.com/items?itemName=viktorqvarfordt.vscode-pitch-black-theme>
 [Maven-For-Java]: <https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven>
 [TODO-Highlight]: <https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight>
-[MD-AllinOne]: <https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one>
+[MD-AllInOne]: <https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one>
