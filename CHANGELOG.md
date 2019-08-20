@@ -2,6 +2,12 @@
 
 All notable changes to the "zank-extension-pack" extension pack will be documented in this file.
 
+## [0.5.0]
+
+- New Icon
+- badge "Total" updated
+
+
 ## [0.4.0]
 
 - Added more Extensions
