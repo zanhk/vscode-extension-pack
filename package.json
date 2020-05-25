@@ -3,6 +3,12 @@
     "displayName": "ZanK's Extension Pack",
     "description": "Useful front-end extensions",
     "version": "0.6.0",
+    "publisher": "zank",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zk-g/zank-extension-pack"
+    },
+    "icon": "logo.png",
     "engines": {
         "vscode": "^1.45.0"
     },
