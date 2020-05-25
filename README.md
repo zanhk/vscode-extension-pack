@@ -6,6 +6,42 @@ Useful extensions for front-end development
 
 ## Extensions included in this pack
 
+#### Themes
+* [One-Dark-Monokai-Darker]
+
+#### Icons
+* [Material-Icon-Theme]
+
+#### Beautifier / Linter
+* [ESlint]
+* [Prettier]
+
+#### Git
+* [Git-Lens]
+
+#### Files Support / Snippets
+* [Python]
+* [C++]
+* [C#]
+* [Go]
+* [React]
+* [MD-AllInOne]
+
+#### Preview / Test / Debug
+* [Code-Runner]
+* [Debugger-Chrome]
+* [Live-Server]
+
+#### Others
+* [Better-Comments]
+* [Project-manager]
+* [VSLS-Whiteboard]
+* [Remote-Development-Extension-Pack]
+* [Setting-Sync]
+* [TODO-Highlight]
+
+## General Extensions you may find helpful
+
 [![Total](https://img.shields.io/badge/Total-65-green)](https://github.com/zk-g/zank-extension-pack)
 
 #### Themes

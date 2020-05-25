@@ -2,6 +2,10 @@
 
 All notable changes to the "zank-extension-pack" extension pack will be documented in this file.
 
+## [0.6.0]
+
+- Updated extension (lightened the package remove unnecessary extensions)
+
 ## [0.5.0]
 
 - New Icon
