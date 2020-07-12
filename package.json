@@ -33,7 +33,7 @@
         "ms-dotnettools.csharp", 
         "ms-python.python", 
         "ms-vscode.cpptools", 
-        "ms-vscode.Go", 
+        "golang.go", 
         "ms-vsliveshare.vsliveshare", 
         "msjsdiag.debugger-for-chrome", 
         "octref.vetur", 
