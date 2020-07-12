@@ -2,7 +2,7 @@
     "name": "zank-extension-pack",
     "displayName": "ZanK's Extension Pack",
     "description": "Useful front-end extensions",
-    "version": "0.7.0",
+    "version": "0.8.0",
     "publisher": "zank",
     "repository": {
         "type": "git",
@@ -25,7 +25,6 @@
         "eg2.vscode-npm-script", 
         "esbenp.prettier-vscode", 
         "eserozvataf.one-dark-pro-monokai-darker", 
-        "formulahendry.auto-close-tag", 
         "formulahendry.code-runner", 
         "karigari.chat", 
         "lostintangent.vsls-whiteboard", 
